@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'SAPUI5'
 
 steps:
 - task: NodeTool@0
