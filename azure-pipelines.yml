@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'SAPUI5'
+  name: 'SAPUI5'
 
 steps:
 - task: NodeTool@0
